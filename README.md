@@ -9,3 +9,5 @@ This will include stl files, How to Videos on upgrades and disassembly, Product 
 So far info is being lossed on the Platform and as this is one of my most favorite Rifles, I would love to see a colection of info on these suckers. 
 
 Join me by expanding this datebase to aid future owners or even our future selfs.
+
+image0.png
