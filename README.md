@@ -1,4 +1,5 @@
-##**Airsoft Masada Only**
+## **Airsoft Masada Only**
+
 Hello Fellow Pts Masada Gbbr owners and or those looking to join the platform.  
 
 Name is Sunny, I go by Its_SunnyD on the GBBR Heavy Recoil Club discord.
