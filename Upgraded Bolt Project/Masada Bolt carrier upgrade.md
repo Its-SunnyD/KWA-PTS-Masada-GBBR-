@@ -1,3 +1,5 @@
+#Masada Bolt carrier upgrade
+
 The OEM masada bolt is decent and for most causal players, It will last longer then most will even use the rifle.
 
 But to those who use their rifle extensivly like I do, we need a better solution as they break from heavy use. 
