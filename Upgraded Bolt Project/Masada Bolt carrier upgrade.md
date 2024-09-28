@@ -9,3 +9,4 @@ The problem with steel bolts is that they impart more wear on the whole rifle ep
 
 My attemp so far is to have one made out of 7075-t6 aluminum as it is tuff like most steels but light weight.
 
+![image](https://github.com/user-attachments/assets/522852f7-ad75-4612-aaa0-5bb00dd4e202)
