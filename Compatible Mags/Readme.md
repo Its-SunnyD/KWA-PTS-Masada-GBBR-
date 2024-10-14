@@ -4,6 +4,8 @@ The most expensive part of any Gas Blow back rife.
 
 Knowing which mags work can allow us to choose what works best for our setups.
 
+The PTS/KWA masada shares many of its internal design with the Lm4 platform.  As such all magazines that work with the lm4 gbbr work it the masada.  
+
 So far Known working mags are the... 
 
 EPM mags made by PTS.
