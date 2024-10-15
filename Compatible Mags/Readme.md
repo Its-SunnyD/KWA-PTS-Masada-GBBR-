@@ -1,4 +1,4 @@
-***Gas mags***
+##**Gas mags**
 
 The most expensive part of any Gas Blow back rife.  
 
@@ -17,9 +17,9 @@ Co2 mags by 6mm proshop.
 PMAGs -Like EPM mags but they have waffling on them.
 
 
-*MAG Issues*
+*##*MAG Issues**
 
-**Links**
+##**Links**
 
 Stang style mags (Green GAS)
 https://www.evike.com/products/38610/
