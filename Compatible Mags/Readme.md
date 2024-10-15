@@ -1,4 +1,4 @@
-##**Gas mags**
+## **Gas mags**
 
 The most expensive part of any Gas Blow back rife.  
 
@@ -17,9 +17,29 @@ Co2 mags by 6mm proshop.
 PMAGs -Like EPM mags but they have waffling on them.
 
 
-*##*MAG Issues**
+## **MAG Issues**
 
-##**Links**
+The masada Made by PTS/KWA is very similar to the KWA LM4 platform, This includes its issues such as double feeding.
+
+**The FIX**
+
+This goes for EPM, Pmags, And stang style mags.  All these mags use double stack feed lips which allow for two bbs to enter the hop up chamber causing a jam and dumping all your gas.
+
+The soulution to this issue is to use single stack feed lips.  This ensures there is only one bb exposed at a time for the Bolt to come feed into the hop up.
+
+Single stack feed lips allow for the double stack mag to feed out to single right where it feeds into the rifle.
+
+This would be a replacement for EPM mags/ Pmags if you want Plastic feed lips.
+
+https://www.proactstore.com/en/products/esd-single-output-magazine-lip-for-ksc-kwa-pts-epm-gas-magazine
+
+
+
+
+![image](https://github.com/user-attachments/assets/b4d0570e-4633-48ca-ab4a-0ffbd44b7b84)
+
+
+## **Links to whole mags** 
 
 Stang style mags (Green GAS)
 https://www.evike.com/products/38610/
