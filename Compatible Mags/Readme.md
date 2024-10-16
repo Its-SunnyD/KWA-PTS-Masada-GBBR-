@@ -29,6 +29,7 @@ The soulution to this issue is to use single stack feed lips.  This ensures ther
 
 Single stack feed lips allow for the double stack mag to feed out to single right where it feeds into the rifle.
 ![image](https://github.com/user-attachments/assets/b4d0570e-4633-48ca-ab4a-0ffbd44b7b84)
+
 **EPM/Pmag**
 
 This would be a replacement for EPM mags/ Pmags if you want Plastic feed lips.
